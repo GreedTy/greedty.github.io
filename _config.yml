@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Study Description"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-email                    : yhi002521@gmail.com
-name                     : kim bo sung
+email                    : "yhi002521@gmail.com"
+name                     : "kim bo sung"
 description              : "python"
 url                      : "https://greedty.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
